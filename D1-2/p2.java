@@ -44,7 +44,7 @@ class lexiSmallestPalin
         {
             if(s.charAt(l)!=s.charAt(h))
             {
-                if(s.charAt())
+                
             }
         }
 
